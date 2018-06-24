@@ -10,9 +10,5 @@ Storing, processing and mining data from web server logs has become mainstream f
 
 In this hadoop project, we will be using a sample application log file from an application server to demonstrated a scaled-down server log processing pipeline. From ingestion to insight usually require Hadoop-ecosystem tools like Flume, Pig, Spark, Hive/Impala, Kafka, Oozie and HDFS for storage and this is what we will be looking at but holistically and specifically at each stage of the pipeline.
 
-However, that processing was batch processing and in the lambda architecture, we will only be able to operate in the batch and serving layer.
-
-In this big data hadoop project, we are also going one step further by bringing processing to the speed layer of the lambda architecture which opens up more capabilities. One of such capability will be ability monitor application real time perform or measure real time comfort with applications or real time alert in case of security breach.
-
-The abilities and functionalities will be explored using Spark Streaming in a streaming architecture. 
+However, that processing was batch processing and in the lambda architecture(Batch, Speed, Serving), we will only be able to operate in the batch and serving layer so we are now also going one step further by bringing processing to the speed layer of the lambda architecture which opens up more capabilities. One of such capability will be ability monitor application real time perform or measure real time comfort with applications or real time alert in case of security breach.The abilities and functionalities will be explored using Spark Streaming in a streaming architecture. 
 
