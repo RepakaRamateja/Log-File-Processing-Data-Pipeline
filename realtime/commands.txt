@@ -1,0 +1,7 @@
+#start spark streaming
+spark-submit --master yarn target/scala-2.10/log-stream-processor-assembly-1.0.jar localhost localhost 4422
+
+# start the flume agent
+flume-ng agent --name server --conf-file flume-server/server-agent.properties
+
+
