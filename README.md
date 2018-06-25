@@ -106,6 +106,10 @@ Storing, processing and mining data from web server logs has become mainstream f
         <td> Orchestration System for Batch Layer </td>
         <td> Oozie </td>
     </tr>
+    <tr>
+        <td> Distributed File System </td>
+        <td> Hdfs </td>
+    </tr>
 </tbody>
 </table>
 
