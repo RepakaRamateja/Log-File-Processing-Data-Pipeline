@@ -210,7 +210,7 @@ source code will be in spark streaming folder
 
 ![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/hivequeries.png)
 
-### After initialization of batch work flow
+### After initialization of batch oozie work flow
 
 ![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/flow.png)
 
