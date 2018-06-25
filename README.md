@@ -171,6 +171,6 @@ kafka_setup_run_command.txt
 
 please go through the file commands.txt in realtime
 
-source code will be in spark streaming
+source code will be in spark streaming folder
 
 ## Screen shots
