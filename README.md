@@ -139,7 +139,7 @@ Web Server Log Processing Use Case
 
 </br>
 
-Given the two web server log dataset available for download from http://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html , we must make analysis, event processing, and data retrieval of log data for varying kind possible.
+  Download web server log dataset available from http://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html, we must make analysis, event processing, and data retrieval of log data for varying kind possible.
 
 Data from the log must be available either using low-latency querying tool or real-time event reporting and analysis.
 
@@ -172,3 +172,5 @@ kafka_setup_run_command.txt
 please go through the file commands.txt in realtime
 
 source code will be in spark streaming
+
+## Screen shots
