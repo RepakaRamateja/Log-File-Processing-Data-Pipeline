@@ -69,6 +69,6 @@ Storing, processing and mining data from web server logs has become mainstream f
 
 ## Technology stack
 
-  
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/stack.png)
 
 
