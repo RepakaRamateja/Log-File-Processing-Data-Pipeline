@@ -8,6 +8,8 @@ Log file processing data pipeline built using Lambda architecture | Flume | Apac
 
 Storing, processing and mining data from web server logs has become mainstream for a lot of companies today. Industry giants have used this engineering and the accompany science of machine learning to extract information that has helped in ads targeting, improved search, application optimization and general improvement in application's user experience.
 
+Lambda architecture is a data- processing architecture designed to handle massive quantities of data by taking advantage of both batch- and stream-processing methods.
+
 
 </br>
 
@@ -114,4 +116,34 @@ Storing, processing and mining data from web server logs has become mainstream f
 </table>
 
 </br>   
+
+## Use Cases
+
+Web Server Log Processing Use Case
+• Application Health Monitoring
+• Fraud - Security
+• User Pattern (sessionizing a click stream) • User Experience
+• Support Triage
+• Metric Data Collection
+
+</br>   
+
+## Configuring Environment
+
+</br>
+
+Given the two web server log dataset available for download from http://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html , we must make analysis, event processing, and data retrieval of log data for varying kind possible.
+
+Data from the log must be available either using low-latency querying tool or real-time event reporting and analysis.
+
+Installation of Cloudera quickstart VM 5.7 or 5.8
+
+Later Configuring Scala Runtime to Cloudera QuickStart VM
+
+Watch the below video for more information 
+
+https://www.youtube.com/watch?v=SFJsuo2XISs
+
+</br>
+
 
