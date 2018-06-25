@@ -71,4 +71,43 @@ Storing, processing and mining data from web server logs has become mainstream f
 
 ![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/stack.png)
 
+</br>    
+
+
+<table>
+<thead>
+<tr>
+<th>Area</th>
+<th>Technology</th>
+</tr>
+</thead>
+<tbody>
+    <tr>
+        <td> Data Ingestion tool </td>
+        <td> Apache Flume </td>
+    </tr>
+    <tr>
+        <td> Cluster Computing Framework </td>
+        <td> Apache Spark and Spark Streaming (Scala)  </td>
+    </tr>
+    <tr>
+        <td> Message Broker </td>
+        <td> Apache Kafka </td>
+    </tr>
+    <tr>
+        <td> Non-Relational Distributed Database </td>
+        <td> Hbase </td>
+    </tr>
+    <tr>
+        <td> Query Engine </td>
+        <td> Hive and Impala </td>
+    </tr>
+    <tr>
+        <td> Orchestration System used for batch layer </td>
+        <td> Oozie </td>
+    </tr>
+</tbody>
+</table>
+
+</br>   
 
