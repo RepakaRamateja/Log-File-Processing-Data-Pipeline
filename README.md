@@ -31,6 +31,16 @@ Storing, processing and mining data from web server logs has become mainstream f
 
 ![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/batch.png)
 
+ Using Flume to ingest log data
+
+ Using Spark to process data
+
+ Integrating Kafka to complex event alert
+
+ Using Impala for the low-latency query of processed log data.
+
+ Coordinating the data processing pipeline with Oozie.
+
 
 </br>
 
@@ -38,6 +48,13 @@ Storing, processing and mining data from web server logs has become mainstream f
 
 ![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/speed.png)
 
+Getting logs at real time using Flume Log4J appenders
+
+Custom Flume configuration for Spark Streaming
+
+Storing log event as a time series datasets in HBase
+
+Integrating Hive and HBase for data retrieval using query.
 
 ### Data Ingestion
 
