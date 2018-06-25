@@ -125,7 +125,9 @@ Web Server Log Processing Use Case
 
 • Fraud - Security
 
-• User Pattern (sessionizing a click stream) • User Experience
+• User Pattern (sessionizing a click stream) 
+
+• User Experience
 
 • Support Triage
 
