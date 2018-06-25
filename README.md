@@ -171,6 +171,8 @@ kafka_setup_run_command.txt
 
 please go through the file commands.txt in realtime
 
+Also execute start-logging-app.sh to start real time  Flume Log4J appenders
+
 source code will be in spark streaming folder
 
 ## Screen shots
