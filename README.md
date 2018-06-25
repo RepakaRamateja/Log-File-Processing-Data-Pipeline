@@ -175,5 +175,58 @@ source code will be in spark streaming folder
 
 ## Screen shots
 
+### Flume config files
+
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/flumeconfigfiles.png)
+
+### Flume agent 1
+
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/clienta.png)
+
+### Flume agent 2
+
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/flumeagentb.png)
+
+### Flume server 
+
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/flumeserver.png)
+
+### batch spark job submit 
+
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/batchsparksubmit.png)
+
+### after processing
+
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/batchafterspark.png)
+
+### Launching Impala and executing queries
+
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/launchimpala.png)
+
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/impalashellqueries.png)
+
+
+### Hive queries 
+
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/hive queries.png)
+
+### After initialization of batch work flow
+
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/flow.png)
+
+
+### Launching Real time spark submit job 
+
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/realtimesparksubmit.png)
+
+### Launching hbase shell to see the new tables
+
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/hbaseshell.png)
+
+### Launching hive to see the logs stored in tables
+
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/final.png)
+
+
 
 
