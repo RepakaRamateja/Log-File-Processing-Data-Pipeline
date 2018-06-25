@@ -21,7 +21,7 @@ Storing, processing and mining data from web server logs has become mainstream f
 
 ## Architecture
 
-### High Level
+### High Level Architecture
 
 ![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/arch.jpeg)
 
