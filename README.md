@@ -103,7 +103,7 @@ Storing, processing and mining data from web server logs has become mainstream f
         <td> Hive and Impala </td>
     </tr>
     <tr>
-        <td> Orchestration System used for batch layer </td>
+        <td> Orchestration System for batch layer </td>
         <td> Oozie </td>
     </tr>
 </tbody>
