@@ -120,10 +120,15 @@ Lambda architecture is a data- processing architecture designed to handle massiv
 ## Use Cases
 
 Web Server Log Processing Use Case
+
 • Application Health Monitoring
+
 • Fraud - Security
+
 • User Pattern (sessionizing a click stream) • User Experience
+
 • Support Triage
+
 • Metric Data Collection
 
 </br>   
