@@ -153,4 +153,16 @@ https://www.youtube.com/watch?v=SFJsuo2XISs
 
 </br>
 
+</br>
 
+## Execution Instructions
+
+### Batch layer
+
+please go through the files in batch/commands
+
+flume_commands.txt
+
+hdfs_command.txt
+
+kafka_setup_run_command.txt
