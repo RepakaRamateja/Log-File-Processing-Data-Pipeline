@@ -166,3 +166,9 @@ flume_commands.txt
 hdfs_command.txt
 
 kafka_setup_run_command.txt
+
+### Speed layer
+
+please go through the file commands.txt in realtime
+
+source code will be in spark streaming
