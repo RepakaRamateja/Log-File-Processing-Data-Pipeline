@@ -177,7 +177,7 @@ source code will be in spark streaming folder
 
 ### Flume config files
 
-![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/flumeconfigfiles.png)
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/fumeconfigfiles.png)
 
 ### Flume agent 1
 
@@ -208,7 +208,7 @@ source code will be in spark streaming folder
 
 ### Hive queries 
 
-![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/hive queries.png)
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/hivequeries.png)
 
 ### After initialization of batch work flow
 
