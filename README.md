@@ -6,9 +6,9 @@ Log file processing data pipeline built using Lambda architecture | Flume | Apac
 
 ## Introduction
 
-Storing, processing and mining data from web server logs has become mainstream for a lot of companies today. Industry giants have used this engineering and the accompany science of machine learning to extract information that has helped in ads targeting, improved search, application optimization and general improvement in application's user experience.
+• Storing, processing and mining data from web server logs has become mainstream for a lot of companies today. Industry giants have used this engineering and the accompany science of machine learning to extract information that has helped in ads targeting, improved search, application optimization and general improvement in application's user experience.
 
-Lambda architecture is a data- processing architecture designed to handle massive quantities of data by taking advantage of both batch- and stream-processing methods.
+• Lambda architecture is a data- processing architecture designed to handle massive quantities of data by taking advantage of both batch- and stream-processing methods.
 
 
 </br>
