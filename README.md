@@ -21,10 +21,29 @@ Storing, processing and mining data from web server logs has become mainstream f
 
 ## Architecture
 
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/arch.png)
+
+</br>
+
+### Batch layer
+
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/batch.png)
 
 
+</br>
+
+### Speed layer
+
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/speed.png)
 
 
+### Data Ingestion
+
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/ingestion.png)
+
+### Oozie Work flow
+
+![alt text](https://github.com/RepakaRamateja/Log-File-Processing-Data-Pipeline/blob/master/images/oozie.png)
 
 
 </br>
